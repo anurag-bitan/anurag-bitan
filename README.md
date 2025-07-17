@@ -8,9 +8,9 @@
   &nbsp;
   <a href="mailto:anuragbitan@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
   &nbsp;
-  <a href="https://leetcode.com/anuragbitan/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
+  <a href="https://leetcode.com/u/anurag20302001/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
   &nbsp;
-  <a href="https://twitter.com/AnuragBitan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" /></a>
+  
 </p>
 
 ---

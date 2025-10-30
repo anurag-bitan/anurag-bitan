@@ -1,12 +1,12 @@
 # Hey, I'm Anurag Bhattacharya 👋
 
-<h3 align="center">Full Stack Developer | 3D Web Explorer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Web Explorer | Problem Solver</h3>
 
 <p align="center">
   <!-- Social icons -->
   <a href="https://linkedin.com/in/anuragbitan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
   &nbsp;
-  <a href="mailto:anuragbitan@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
+  <a href="mailto:anurag20302001@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
   &nbsp;
   <a href="https://leetcode.com/u/anurag20302001/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
   &nbsp;

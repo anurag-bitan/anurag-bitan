@@ -20,14 +20,13 @@
 ### 👨‍💻 About Me
 
 - Passionate **Full Stack Developer**
-- Builder of responsive UIs, scalable APIs & immersive 3D web apps  
 - Created a portfolio using **Three.js + React**
 - Focused on **System Design** & **DSA**
 
 <br clear="both" />
 
 ## 🛠 Tech Stack
-`JavaScript` `TypeScript` `React` `Node.js` `MongoDB`  
+`JavaScript` `DSA(C++)` `LLD` `OOPS` `Python` `PL/SQL` `SQL` `React` `Node.js` `MongoDB`  
 `Three.js` `Tailwind CSS` `Framer Motion` `Git` `Vite` 
 
 ---

@@ -5,9 +5,9 @@
 
 <p align="center">
   <!-- Social icons -->
-  <a href="https://linkedin.com/in/anuragbitan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
+  <a href="https://www.linkedin.com/in/anurag-bhattacharya-256b351a4/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
   &nbsp;
-  <a href="mailto:anurag20302001@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
+  <a href="mailto:anurag20302001@gmail.com?subject=Hello%20Anurag&body=Hi%20there!"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
   &nbsp;
   <a href="https://leetcode.com/u/anurag20302001/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
   &nbsp;

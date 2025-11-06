@@ -1,5 +1,6 @@
-# Hey, I'm Anurag Bhattacharya 👋
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=false&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag;Full-Stack+Developer" alt="Typing SVG" />
+</p>
 <h3 align="center">Full Stack Developer | Web Explorer | Problem Solver</h3>
 
 <p align="center">

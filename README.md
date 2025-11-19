@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - Passionate **Full Stack Developer**
-- Created a portfolio using **Three.js + React**
 - Focused on **System Design** & **DSA**
 
 <br clear="both" />

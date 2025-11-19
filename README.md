@@ -27,8 +27,9 @@
 <br clear="both" />
 
 ## 🛠 Tech Stack
-`JavaScript` `DSA(C++)` `LLD` `OOPS` `Python` `PL/SQL` `SQL` `React` `Node.js` `MongoDB`  
-`Three.js` `Tailwind CSS` `Framer Motion` `Git` `Vite` 
+`JavaScript` `DSA(C++)` `OOPS` `Python` `PL/SQL` `SQL` `React` `Node.js` `MongoDB`  
+`Three.js` `Tailwind CSS` `Framer Motion` `Git` `Vite` `Systems Design` `Express` 
+`Springboot` 
 
 ---
 

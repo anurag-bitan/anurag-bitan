@@ -27,8 +27,8 @@
 
 ## 🛠 Tech Stack
 `JavaScript` `DSA(C++)` `OOPS` `Python` `PL/SQL` `SQL` `React` `Node.js` `MongoDB`  
-`Three.js` `Tailwind CSS` `Framer Motion` `Git` `Vite` `Systems Design` `Express` 
-`Springboot` 
+`Three.js` `Tailwind CSS` `FAST API` `REST API` `Git` `CI/CD` `System Design` `Express` 
+`Springboot` `AWS` `Docker` `RabbitMQ` `Redis`
 
 ---
 

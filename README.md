@@ -5,11 +5,13 @@
 
 <p align="center">
   <!-- Social icons -->
-  <a href="https://www.linkedin.com/in/anurag-bhattacharya-256b351a4/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
+  <a href="https://www.linkedin.com/in/anurag-bhattacharya-256b351a4/" title="Linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
   &nbsp;
-  <a href="mailto:anurag20302001@gmail.com?subject=Hello%20Anurag&body=Hi%20there!"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
+  <a href="mailto:anurag20302001@gmail.com?subject=Hello%20Anurag&body=Hi%20there!" title="Mail"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" /></a>
   &nbsp;
-  <a href="https://leetcode.com/u/anurag20302001/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
+  <a href="https://leetcode.com/u/anurag20302001/" title="Leetcode"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px" /></a>
+  &nbsp;
+  <a href="https://portfolio-weld-alpha-32.vercel.app/" title="Portfolio"><img src="https://img.icons8.com/?size=100&id=CzlmE2WiM71q&format=png&color=000000" width="30px" /></a>
   &nbsp;
   
 </p>

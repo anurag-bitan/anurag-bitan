@@ -24,6 +24,7 @@
 
 - Passionate **Full Stack Developer**
 - Focused on **System Design** & **DSA**
+- Developing **Cloud Based agentic workflows**
 
 <br clear="both" />
 

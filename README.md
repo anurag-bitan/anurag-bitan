@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anurag-bitan&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-bitan&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/anuragbitan)

@@ -31,7 +31,7 @@
 ## 🛠 Tech Stack
 `JavaScript` `DSA(C++)` `OOPS` `Python` `PL/SQL` `SQL` `React` `Node.js` `MongoDB`  
 `Three.js` `Tailwind CSS` `FAST API` `REST API` `Git` `CI/CD` `System Design` `Express` 
-`Springboot` `AWS` `Docker` `RabbitMQ` `Redis`
+`Springboot` `AWS` `Docker` `RabbitMQ` `Redis` `LangChain` `LangGraph` `Rag` `VectorDB` `Chunking stratergies`
 
 ---
 
